@@ -10,30 +10,30 @@ Al finalizar el curso, los estudiantes serán capaces de construir aplicaciones 
 ## Objetivos del Curso
 
 - **Unidad 1: Introducción a PHP**
- 1.1. ¿Qué es PHP?
- 1.2. Ventajas de usar PHP.
- 1.3. Instalación
- 1.4 Configuración de PHP.
+ - 1.1. ¿Qué es PHP?
+ - 1.2. Ventajas de usar PHP.
+ - 1.3. Instalación
+ - 1.4 Configuración de PHP.
 
 
 - **Unidad 2: Sintaxis y Variables**
- 2.1. Etiquetas de apertura y cierre.
- 2.2. Variables y tipos de datos.
- 2.3. Operadores en PHP.
- 2.4. Comentarios en PHP.
+ - 2.1. Etiquetas de apertura y cierre.
+ - 2.2. Variables y tipos de datos.
+ - 2.3. Operadores en PHP.
+ - 2.4. Comentarios en PHP.
 
 
 - **Unidad 3: Estructuras de Control**
- 3.1. Condicionales (if, else, elseif).
- 3.2. Bucles (for, while, do-while).
- 3.3. Sentencia switch.
+ - 3.1. Condicionales (if, else, elseif).
+ - 3.2. Bucles (for, while, do-while).
+ - 3.3. Sentencia switch.
 
 
 - **Unidad 4: Arrays y Funciones**
- 4.1 Declaración de funciones
- 4.2 Arrays, indexados y asociativos.
- 4.3 Pasar argumentos a funciones.
- 4.4 Funciones para trabajar con arrays.
+ - 4.1 Declaración de funciones
+ - 4.2 Arrays, indexados y asociativos.
+ - 4.3 Pasar argumentos a funciones.
+ - 4.4 Funciones para trabajar con arrays.
 
 
 ## Recursos Adicionales

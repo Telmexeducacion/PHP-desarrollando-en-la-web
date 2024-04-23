@@ -1,5 +1,6 @@
 <?php
 
+
 // Definimos las dimensiones del rectángulo
   $base = 10;
   $altura = 6;

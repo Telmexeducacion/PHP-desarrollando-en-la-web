@@ -1,0 +1,21 @@
+<?php
+// Lista de nombres de usuarios
+$nombres = array("Juan", "María", "Pedro", "Ana", "Luis");
+
+// Imprimir la lista de nombres en una lista HTML
+echo "<ul>";
+foreach ($nombres as $nombre) {
+    echo "<li>";
+    // Verificar el nombre del usuario y personalizar el mensaje
+    if ($nombre === "Ana") {
+        echo "Hola $nombre, bienvenida administradora.";
+    } else if ($nombre === "Luis") {
+        echo "Hola $nombre, lo invitamos a pasar a recepción tiene un saldo vencido.";
+    } else {
+        echo "Hola $nombre.";
+    }
+
+    echo "</li>";
+}
+echo "</ul>";
+?>

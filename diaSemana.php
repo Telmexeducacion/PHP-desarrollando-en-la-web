@@ -4,7 +4,7 @@
 
         switch ($diaSemana) {
             case "Lunes":
-                echo "Hoy es $diaSemana. ¡Ánimo para empezar la semana!";
+                echo "Hoy es $diaSemana. ¡Ánimo para empezar la semana WOW!";
                 break;
             case "Martes":
             case "Miércoles":

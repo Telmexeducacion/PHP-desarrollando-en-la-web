@@ -1,16 +1,16 @@
 <?php
 
-    $diaSemana = "Lunes";
+    $diaSemana = "Viernes";
 
         switch ($diaSemana) {
             case "Lunes":
-                echo "Hoy es $diaSemana. ¡Ánimo para empezar la semana WOW!";
+                echo "Hoy es $diaSemana. ¡CHale que ya caiga la quincena!";
                 break;
             case "Martes":
             case "Miércoles":
             case "Jueves":
             case "Viernes":
-                echo "Hoy es $diaSemana. ¡A seguir adelante!";
+                echo "Hoy es $diaSemana. ¡A seguir adelante .........!";
                 break;
             case "Sábado":
             case "Domingo":
